@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environments
+.venv/
+.env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data / outputs
+data/
+outputs/
+*.csv
+*.npz
+*.h5
+*.png
+*.pdf
+tmp/
+figures
+
+# OS
+.DS_Store

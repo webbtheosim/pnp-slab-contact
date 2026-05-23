@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: pnpcc
+Version: 0.1.0
+Summary: Poisson–Nernst–Planck contact/separation simulator for soft interfaces
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.24
+Requires-Dist: scipy>=1.10
+Provides-Extra: dev
+Requires-Dist: pytest>=7; extra == "dev"
+Requires-Dist: pytest-cov; extra == "dev"
+Requires-Dist: matplotlib>=3.7; extra == "dev"
+Requires-Dist: ruff; extra == "dev"
+Requires-Dist: black; extra == "dev"
+Requires-Dist: pre-commit; extra == "dev"
+
+# CODE for POISSON-NERNST-PLANCK SOLVER 
+contact charging of condensates
+
